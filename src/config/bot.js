@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "The Best all rounder BOT", // required by Discord API, not shown in the client
-        state: "The Best Bot Created by Void",     // this is what people actually see
+        state: "The Best Bot Created by EGOIST",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
